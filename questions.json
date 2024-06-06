@@ -1,0 +1,65 @@
+[
+  {
+    "intro": "How are you feeling today?",
+    "q1": " - Happy",
+    "q2": " - Sad",
+    "q3": " - Tired",
+    "q4": " - Bored"
+  },
+
+  {
+    "intro": "What kind of movie do you want to watch?",
+    "q1": " - Action",
+    "q2": " - Mystery",
+    "q3": " - Horror",
+    "q4": " - Comedy"
+  },
+
+  {
+    "intro": "What kind of occasion is your movie for?",
+    "q1": " - Watching by myself",
+    "q2": " - Movie Date",
+    "q3": " - Family Movie Night",
+    "q4": " - Movie Night with Friends"
+  },
+
+  {
+    "intro": "How old can the movie be?",
+    "q1": " - Doesn't matter",
+    "q2": " - Published in last 3 years",
+    "q3": " - Published in last 6 years",
+    "q4": " - Published 9 or more years ago"
+  },
+
+  {
+    "intro": "What PG rating must your movie have?",
+    "q1": " - G rating",
+    "q2": " - PG",
+    "q3": " - 14A",
+    "q4": " - Restricted"
+  },
+
+  {
+    "intro": "Do you feel like exploring different movies?",
+    "q1": " - Yes",
+    "q2": " - No",
+    "q3": " - Depends on the movie",
+    "q4": " - Yes, surprise me"
+  },
+
+  {
+    "intro": "Where should the movie take place?",
+    "q1": " - Haunted House",
+    "q2": " - Eastern Country",
+    "q3": " - Big City",
+    "q4": " - Space"
+  },
+
+  {
+    "intro": "How popular should the movie be?",
+    "q1": " - Have high audience ratings",
+    "q2": " - Have had good advertisements",
+    "q3": " - Have had mediocre ratings",
+    "q4": " - Have had low ratings (B Movie)"
+  }
+]
